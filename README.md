@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ixkakau
-- 👀 I’m interested in math, science, linux, books.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on open software projects, translations.
-- 📫 How to reach me ...
+@ixkakau - interested in math, science, linux, books - currently learning python - looking to collaborate on open software projects, translations.
 
 <!---
 ixkakau/ixkakau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
